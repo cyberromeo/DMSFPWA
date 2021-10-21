@@ -1,0 +1,23 @@
+   {
+    "name": "IMD MAGAZINE",
+    "short_name": "dmsf.cf",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiMlHPQkozy3r9Mi-Mh7oaL8V80xJFjqsrlxj4Dw_32fX-1FTnQg1nTEI2xhB2cR_16F4kjvNeIFKhOvt6FCGAWIdEN0uMih7caxqq0_djWk4Scau8O3xzno_otoQrSasyZiNsyyt49QaiM0OIldZ-xQskLKIFri_wb1li2M58v9_O_KVT14IhflVZWBg=s16000",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiZVuw3WVBWEVqaKizXYalTDnM2dutj1GH71EISN4gUH9EPIokg9va5D9WsUR3HuuixEKLvdSneCXiHhS1QU76FKdtr2HAQA-9MPtAFBQftY-X4P3moFNtPBLVSXbtiowzYVLC2oV2Mu2JLdLKm3oOUjr7Szoc0d1ASZmJWKPgC92FtrYLdTe9Si08ZyA=s16000",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.dmsf.cf"
+}

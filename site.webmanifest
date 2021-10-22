@@ -16,7 +16,7 @@
         }
     ],
     "theme_color": "#ffffff",
-    "background_color": "#0452C3",
+    "background_color": "#ffffff",
     "display": "standalone",
     "prefer_related_applications": true,
   "start_url": "https://www.dmsf.cf"
